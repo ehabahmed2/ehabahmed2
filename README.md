@@ -12,3 +12,43 @@ graph TD
     D --> E[Web Scraping]
     E --> F[Deployment]
 
+🔭 Current Focus
+Mastering Django ORM patterns
+
+Building RESTful APIs with Django REST Framework
+
+Improving web scraping techniques
+
+Deployment best practices
+
+🔭 Current Focus
+Mastering Django ORM patterns
+
+Building RESTful APIs with Django REST Framework
+
+Improving web scraping techniques
+
+Deployment best practices
+
+🏆 Featured Projects
+1. HoubaStore - E-commerce Platform
+https://img.shields.io/badge/Live-Demo-brightgreen
+
+Tech Stack: Django • PostgreSQL • HTML/CSS
+
+Features:
+
+User authentication system
+
+Product catalog with categories
+
+Admin dashboard for management
+
+Shopping cart functionality
+
+
+graph TD
+    User[👤 User] -->|Logs in| Auth[🔒 Authentication]
+    Auth -->|Access| Products[📦 Product Catalog]
+    Products -->|Add to| Cart[🛒 Shopping Cart]
+    Cart -->|Proceed to| Checkout[💳 Checkout]

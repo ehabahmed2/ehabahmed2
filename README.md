@@ -32,7 +32,7 @@ graph TD
 ## 🏆 Featured Projects
 
 ### 1. HoubaStore – E‑commerce Platform  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-live-demo-link.com)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://houbastore.pythonanywhere.com/)  
 **Tech Stack**: Django • PostgreSQL • HTML/CSS  
 - User authentication system  
 - Product catalog with categories  
@@ -40,6 +40,7 @@ graph TD
 - Shopping cart functionality  
 
 ### 2. Blog CMS  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://blogplatfrom.pythonanywhere.com/) 
 **Tech Stack**: Django • SQLite • HTML/CSS  
 - Role-based access (Admin/Author/User)  
 - Content management system  
@@ -53,8 +54,8 @@ graph TD
 
 ## 📬 Let's Connect!
 - ✉️ **Email**: ihapbpc@gmail.com  
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)  
-- 🌐 **Portfolio**: [HoubaStore Demo](https://your-live-demo-link.com)  
+- 💼 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/ehab-ahmed-9467741b3/)  
+- 🌐 **Portfolio**: [My Portfolio](https://ehabahmed0.pythonanywhere.com/)  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehabahmed2&show_icons=true&theme=radical)  

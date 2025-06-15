@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a backend-focused developer passionate about b
 ```markdown
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ehabahmed2.ehabahmed2)
 
+
 ```mermaid
 graph TD
     A[Python] --> B[Django]
@@ -16,4 +17,3 @@ graph TD
     C --> D[REST APIs]
     D --> E[Web Scraping]
     E --> F[Deployment]
-

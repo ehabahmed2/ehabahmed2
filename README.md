@@ -12,6 +12,3 @@ graph TD
     D --> E[Web Scraping]
     E --> F[Deployment]
 
-
-```markdown
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ehabahmed2.ehabahmed2)

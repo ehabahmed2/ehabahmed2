@@ -58,5 +58,4 @@ graph TD
 - 🌐 **Portfolio**: [My Portfolio](https://ehabahmed0.pythonanywhere.com/)  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehabahmed2&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehabahmed2&layout=compact&theme=radical)

@@ -33,7 +33,7 @@ graph TD
 ### 1. Culture Bridge
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://culturebridge.pythonanywhere.com/)  
 **Tech Stack**: Django  
-• HTML/CSS/JS
+• HTML/CSS/JS • Django REST Framework
 - Culturally Intelligent AI Integration  
 - End-to-End Full-Stack Development 
 - Scalable SaaS Architecture  

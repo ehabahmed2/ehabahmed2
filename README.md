@@ -30,8 +30,18 @@ graph TD
 - **Version Control**: Git & GitHub  
 
 ## 🏆 Featured Projects
+### 1. Culture Bridge
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://culturebridge.pythonanywhere.com/)  
+**Tech Stack**: Django  
+• HTML/CSS/JS
+- Culturally Intelligent AI Integration  
+- End-to-End Full-Stack Development 
+- Scalable SaaS Architecture  
+- User-Centric Social Media Utility
+Focused on usability and real-world social media workflows,
 
-### 1. HoubaStore – E‑commerce Platform  
+
+### 2. HoubaStore – E‑commerce Platform  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://houbastore.pythonanywhere.com/)  
 **Tech Stack**: Django • PostgreSQL • HTML/CSS  
 - User authentication system  
@@ -39,14 +49,14 @@ graph TD
 - Admin dashboard for management  
 - Shopping cart functionality  
 
-### 2. Blog CMS  
+### 3. Blog CMS  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://blogplatfrom.pythonanywhere.com/) 
 **Tech Stack**: Django • SQLite • HTML/CSS  
 - Role-based access (Admin/Author/User)  
 - Content management system  
 - Post creation/editing workflows  
 
-### 3. Job Scraper  
+### 4. Job Scraper  
 **Tech Stack**: Python • BeautifulSoup • Requests  
 - Multi-site job extraction  
 - Data cleaning and structuring  
